@@ -1,8 +1,8 @@
 ## Hi! I am excited to work with you 
 
-# I am currently onboarding with the github education team and looking forward to expanding the education packages available to students around the world. 
+### I am currently onboarding with the github education team and looking forward to expanding the education packages available to students around the world. 
 
-# My background is in environmental health and the creation of opportunities for undergraduates. Ask me about how public health can apply to a broad array of situations.  
+### My background is in environmental health and the creation of opportunities for undergraduates. Ask me about how public health can apply to a broad array of situations.  
 
 <!--
 **adawright/adawright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
